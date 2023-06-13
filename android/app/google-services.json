@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541893065707",
+    "project_id": "vandadnotes-d0eed",
+    "storage_bucket": "vandadnotes-d0eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541893065707:android:b62291a2119e7e03b537ae",
+        "android_client_info": {
+          "package_name": "iamnife.flutter.vandad_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBquDoYYPgxChbjOAAD9EYrYkLSO97DotY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
